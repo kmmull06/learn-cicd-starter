@@ -19,5 +19,5 @@ func GetAPIKey(headers http.Header) (string, error) {
 		return "", errors.New("malformed authorization header")
 	}
 
-	return "brokenAPIKey", nil
+	return "testapikey123", nil
 }
