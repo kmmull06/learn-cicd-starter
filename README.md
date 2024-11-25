@@ -1,4 +1,4 @@
-![code coverage badge](https://github.com/wagslane/go-rabbitmq/actions/workflows/Tests.yml/badge.svg)
+![code coverage badge](https://github.com/kevin/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 This is a new line for a pull request
